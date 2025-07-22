@@ -28,10 +28,3 @@ To see the blog in action, simply open `Personal_Blog_Hosting.html` in your brow
 
 ---
 
-## 📂 Folder Structure
-
-```bash
-/your-repo
-│
-├── Personal_Blog_Hosting.html  # Main HTML file
-└── README.md                   # Project overview
